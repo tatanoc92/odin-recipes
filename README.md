@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of this project was to implement all of the HTML knowledge I have learnt so far using The Odin Project. I will create a website with a list of recipes that will be linked to separate page with the actual recipes in bullet point format.
